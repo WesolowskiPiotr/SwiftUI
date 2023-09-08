@@ -46,6 +46,15 @@ struct List_1: View {
     }
 }
 
-#Preview {
-    List_1()
+// Xcode 15
+//#Preview {
+//    List_1()
+//}
+
+// Xcode 14
+struct List_1_Previews: PreviewProvider {
+    static var previews: some View {
+        List_1()
+    }
 }
+
