@@ -20,6 +20,21 @@
 		78FBC4202AAB6DD700B90BCF /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC41F2AAB6DD700B90BCF /* DetailView.swift */; };
 		78FBC4232AAB77FF00B90BCF /* DataFlow_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4222AAB77FF00B90BCF /* DataFlow_1.swift */; };
 		78FBC4252AAB78EB00B90BCF /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4242AAB78EB00B90BCF /* AddItemView.swift */; };
+		78FBC4272AAC3A3E00B90BCF /* DataFlow_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4262AAC3A3E00B90BCF /* DataFlow_2.swift */; };
+		78FBC4292AAC3B7200B90BCF /* Counter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4282AAC3B7200B90BCF /* Counter.swift */; };
+		78FBC42B2AAC3E2C00B90BCF /* DataFlow_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC42A2AAC3E2C00B90BCF /* DataFlow_3.swift */; };
+		78FBC42D2AAC45FE00B90BCF /* DataFlow_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC42C2AAC45FE00B90BCF /* DataFlow_4.swift */; };
+		78FBC42F2AAC46F300B90BCF /* DataFlow_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC42E2AAC46F300B90BCF /* DataFlow_5.swift */; };
+		78FBC4312AAC508A00B90BCF /* DataFlow_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4302AAC508A00B90BCF /* DataFlow_6.swift */; };
+		78FBC4342AAC56E700B90BCF /* Sheets_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4332AAC56E700B90BCF /* Sheets_1.swift */; };
+		78FBC4362AAC574300B90BCF /* AddItemViewSheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4352AAC574300B90BCF /* AddItemViewSheets.swift */; };
+		78FBC4382AAC599F00B90BCF /* Sheets_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4372AAC599F00B90BCF /* Sheets_2.swift */; };
+		78FBC43A2AAC5C1000B90BCF /* Sheets_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4392AAC5C1000B90BCF /* Sheets_3.swift */; };
+		78FBC43C2AAC617000B90BCF /* FlexibleSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC43B2AAC617000B90BCF /* FlexibleSheet.swift */; };
+		78FBC43F2AAC6F3700B90BCF /* MVVM_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC43E2AAC6F3700B90BCF /* MVVM_View.swift */; };
+		78FBC4412AAC6F4800B90BCF /* Webservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4402AAC6F4800B90BCF /* Webservice.swift */; };
+		78FBC4432AAC703700B90BCF /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4422AAC703700B90BCF /* PostModel.swift */; };
+		78FBC4452AAC71EB00B90BCF /* MVVM_ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78FBC4442AAC71EB00B90BCF /* MVVM_ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +52,21 @@
 		78FBC41F2AAB6DD700B90BCF /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		78FBC4222AAB77FF00B90BCF /* DataFlow_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFlow_1.swift; sourceTree = "<group>"; };
 		78FBC4242AAB78EB00B90BCF /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
+		78FBC4262AAC3A3E00B90BCF /* DataFlow_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFlow_2.swift; sourceTree = "<group>"; };
+		78FBC4282AAC3B7200B90BCF /* Counter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Counter.swift; sourceTree = "<group>"; };
+		78FBC42A2AAC3E2C00B90BCF /* DataFlow_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFlow_3.swift; sourceTree = "<group>"; };
+		78FBC42C2AAC45FE00B90BCF /* DataFlow_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFlow_4.swift; sourceTree = "<group>"; };
+		78FBC42E2AAC46F300B90BCF /* DataFlow_5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFlow_5.swift; sourceTree = "<group>"; };
+		78FBC4302AAC508A00B90BCF /* DataFlow_6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFlow_6.swift; sourceTree = "<group>"; };
+		78FBC4332AAC56E700B90BCF /* Sheets_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheets_1.swift; sourceTree = "<group>"; };
+		78FBC4352AAC574300B90BCF /* AddItemViewSheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewSheets.swift; sourceTree = "<group>"; };
+		78FBC4372AAC599F00B90BCF /* Sheets_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheets_2.swift; sourceTree = "<group>"; };
+		78FBC4392AAC5C1000B90BCF /* Sheets_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheets_3.swift; sourceTree = "<group>"; };
+		78FBC43B2AAC617000B90BCF /* FlexibleSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlexibleSheet.swift; sourceTree = "<group>"; };
+		78FBC43E2AAC6F3700B90BCF /* MVVM_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVM_View.swift; sourceTree = "<group>"; };
+		78FBC4402AAC6F4800B90BCF /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
+		78FBC4422AAC703700B90BCF /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
+		78FBC4442AAC71EB00B90BCF /* MVVM_ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVM_ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +99,9 @@
 		78B2FBC72AAB4718009BDFF5 /* Cookbook */ = {
 			isa = PBXGroup;
 			children = (
+				78FBC4462AAC764700B90BCF /* CoreData */,
+				78FBC43D2AAC6F0300B90BCF /* MVVM */,
+				78FBC4322AAC56D700B90BCF /* Sheets */,
 				78FBC4212AAB767800B90BCF /* DataFlow */,
 				78B2FBC82AAB4718009BDFF5 /* CookbookApp.swift */,
 				78FBC4162AAB646400B90BCF /* List */,
@@ -114,8 +147,44 @@
 			children = (
 				78FBC4222AAB77FF00B90BCF /* DataFlow_1.swift */,
 				78FBC4242AAB78EB00B90BCF /* AddItemView.swift */,
+				78FBC4262AAC3A3E00B90BCF /* DataFlow_2.swift */,
+				78FBC4282AAC3B7200B90BCF /* Counter.swift */,
+				78FBC42A2AAC3E2C00B90BCF /* DataFlow_3.swift */,
+				78FBC42C2AAC45FE00B90BCF /* DataFlow_4.swift */,
+				78FBC42E2AAC46F300B90BCF /* DataFlow_5.swift */,
+				78FBC4302AAC508A00B90BCF /* DataFlow_6.swift */,
 			);
 			path = DataFlow;
+			sourceTree = "<group>";
+		};
+		78FBC4322AAC56D700B90BCF /* Sheets */ = {
+			isa = PBXGroup;
+			children = (
+				78FBC4332AAC56E700B90BCF /* Sheets_1.swift */,
+				78FBC4352AAC574300B90BCF /* AddItemViewSheets.swift */,
+				78FBC4372AAC599F00B90BCF /* Sheets_2.swift */,
+				78FBC4392AAC5C1000B90BCF /* Sheets_3.swift */,
+				78FBC43B2AAC617000B90BCF /* FlexibleSheet.swift */,
+			);
+			path = Sheets;
+			sourceTree = "<group>";
+		};
+		78FBC43D2AAC6F0300B90BCF /* MVVM */ = {
+			isa = PBXGroup;
+			children = (
+				78FBC43E2AAC6F3700B90BCF /* MVVM_View.swift */,
+				78FBC4402AAC6F4800B90BCF /* Webservice.swift */,
+				78FBC4422AAC703700B90BCF /* PostModel.swift */,
+				78FBC4442AAC71EB00B90BCF /* MVVM_ViewModel.swift */,
+			);
+			path = MVVM;
+			sourceTree = "<group>";
+		};
+		78FBC4462AAC764700B90BCF /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CoreData;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -189,15 +258,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				78B2FBCB2AAB4718009BDFF5 /* List_1.swift in Sources */,
+				78FBC42F2AAC46F300B90BCF /* DataFlow_5.swift in Sources */,
+				78FBC4412AAC6F4800B90BCF /* Webservice.swift in Sources */,
 				78FBC4232AAB77FF00B90BCF /* DataFlow_1.swift in Sources */,
+				78FBC4292AAC3B7200B90BCF /* Counter.swift in Sources */,
+				78FBC4272AAC3A3E00B90BCF /* DataFlow_2.swift in Sources */,
 				78FBC4202AAB6DD700B90BCF /* DetailView.swift in Sources */,
 				78FBC4192AAB648A00B90BCF /* List_5.swift in Sources */,
 				78FBC41B2AAB66EA00B90BCF /* List_6.swift in Sources */,
+				78FBC42B2AAC3E2C00B90BCF /* DataFlow_3.swift in Sources */,
+				78FBC4452AAC71EB00B90BCF /* MVVM_ViewModel.swift in Sources */,
+				78FBC4362AAC574300B90BCF /* AddItemViewSheets.swift in Sources */,
+				78FBC4342AAC56E700B90BCF /* Sheets_1.swift in Sources */,
 				78FBC4132AAB5F8300B90BCF /* List_3.swift in Sources */,
 				78B2FBD72AAB4961009BDFF5 /* List_2.swift in Sources */,
 				78FBC41E2AAB6B8F00B90BCF /* Navigation_1.swift in Sources */,
+				78FBC43C2AAC617000B90BCF /* FlexibleSheet.swift in Sources */,
+				78FBC42D2AAC45FE00B90BCF /* DataFlow_4.swift in Sources */,
 				78FBC4252AAB78EB00B90BCF /* AddItemView.swift in Sources */,
+				78FBC4312AAC508A00B90BCF /* DataFlow_6.swift in Sources */,
 				78B2FBC92AAB4718009BDFF5 /* CookbookApp.swift in Sources */,
+				78FBC43A2AAC5C1000B90BCF /* Sheets_3.swift in Sources */,
+				78FBC4432AAC703700B90BCF /* PostModel.swift in Sources */,
+				78FBC4382AAC599F00B90BCF /* Sheets_2.swift in Sources */,
+				78FBC43F2AAC6F3700B90BCF /* MVVM_View.swift in Sources */,
 				78FBC4152AAB63BD00B90BCF /* List_4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

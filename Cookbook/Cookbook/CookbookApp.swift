@@ -12,6 +12,11 @@ struct CookbookApp: App {
     var body: some Scene {
         WindowGroup {
             List_1()
+            
+//            let counter = Counter()
+//            DataFlow_2().environmentObject(counter)
+            
+//            DataFlow_6()
         }
     }
 }

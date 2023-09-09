@@ -30,13 +30,13 @@ struct AddItemView: View {
 
 
 // Xcode 15
-//#Preview {
-//    AddItemView()
-//}
+#Preview {
+    AddItemView(name: .constant("John"))
+}
 
 // Xcode 14
-struct AddItemView_Previews: PreviewProvider {
-    static var previews: some View {
-        AddItemView(name: .constant("Mery Doe"))
-    }
-}
+//struct AddItemView_Previews: PreviewProvider {
+//    static var previews: some View {
+//        AddItemView(name: .constant("Mery Doe"))
+//    }
+//}

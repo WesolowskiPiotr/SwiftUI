@@ -27,13 +27,13 @@ struct DataFlow_1: View {
 }
 
 // Xcode 15
-//#Preview {
-//    DataFlow_1()
-//}
+#Preview {
+    DataFlow_1()
+}
 
 // Xcode 14
-struct DataFlow_1_Previews: PreviewProvider {
-    static var previews: some View {
-        DataFlow_1()
-    }
-}
+//struct DataFlow_1_Previews: PreviewProvider {
+//    static var previews: some View {
+//        DataFlow_1()
+//    }
+//}
